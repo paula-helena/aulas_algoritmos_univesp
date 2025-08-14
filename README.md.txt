@@ -1,0 +1,1 @@
+Formada em Administração e estudante de Engenharia da Computação. Atualmente na posição de Analista de Dados.
