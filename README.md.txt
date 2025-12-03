@@ -1,2 +1,2 @@
-Formada em Administração e estudante de Engenharia da Computação. Atualmente na posição de Analista de Dados.
-Usarei este repositório para meus projetos e aulas da faculdade.
+Formada em Administração e estudante de Engenharia da Computação. 
+Usarei este repositório para minhas atividades das aulas de Algoritmos de Programação I e II.
